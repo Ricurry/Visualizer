@@ -19,6 +19,7 @@ vcpkg install glad
 - ##### Locate the sound.wav file. (This is the music file.)
 
 - ##### Replace with any sound file you have, make sure it is wav and the exact same spelling as the file.
+- ### By default this is Red Hot Chilli Pepper's - Can't stop.
 
 - ##### Double click the OpenGL executable.
 
