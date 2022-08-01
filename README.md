@@ -1,12 +1,12 @@
-# AudioGL
+# Audio OpenGL.
 
-## Barebones Audio Visualizer.
+## Bare-bones Visualizer.
 
-### To build, you'll need:
+- #### You will need [VcPKG](https://vcpkg.io/en/index.html), a package manager from Microsoft. We need it to run the software.
 
-- ##### VcPkg.
+Once you have VcPKG installed.
 
-### VcPkg Commands.
+Open your terminal and type:
 
 ```bash
 vcpkg install glfw3
@@ -14,14 +14,15 @@ vcpkg install glm
 vcpkg install glad
 ```
 
-### To run:
+one by one.
 
-- ##### Locate the sound.wav file. (This is the music file.)
+## To run:
 
-- ##### Replace with any sound file you have, make sure it is wav and the exact same spelling as the file.
-- ### By default this is Red Hot Chilli Pepper's - Can't stop.
+- Locate the sound.wav file. (This is the audio the software will visualize.)
 
-- ##### Double click the OpenGL executable.
+  - By default this is set to Red Hot Chili Pepper's album;  Can't Stop.
 
-#### Showcase:
+  - Replace with any wav file you'd like, and run the executable.
+
+  - ### Enjoy, if it works. If it doesn't, feel free to file an issue.
 
