@@ -12,7 +12,7 @@ Open your terminal and type:
 vcpkg install glfw3
 vcpkg install glm
 vcpkg install glad
-vcpkg install openal
+vcpkg install openal-soft
 ```
 
 one by one.
